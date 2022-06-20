@@ -6,4 +6,4 @@
 | 3 |[35](https://leetcode.com/problems/search-insert-position/)|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Search_Insert_Position](Search_Insert_Position)|
 |Day 2||||
 | 3 |[977](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Squares_of_a_Sorted_Array](Squares_of_a_Sorted_Array)|
-| 4 |189|Rotate Array|[Rotate_Array](Rotate_Array)|
+| 4 |[189](https://leetcode.com/problems/rotate-array/)|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Rotate_Array](Rotate_Array)|
